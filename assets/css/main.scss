@@ -293,3 +293,23 @@ h2 {
 ul li {
   margin-bottom: 10px;
 }
+
+
+/* ============================= */
+/* FINAL WIDTH FIX */
+/* ============================= */
+
+.initial-content {
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+}
+
+.layout--default .page {
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+}
+
+.page__inner-wrap {
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+}

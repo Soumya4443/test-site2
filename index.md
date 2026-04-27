@@ -22,7 +22,7 @@ My research combines numerical simulations and theoretical modeling to understan
 </div>
 
 <div class="hero-image">
-<img src="/assets/images/profile.jpg">
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}">
 </div>
 
 </div>
