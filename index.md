@@ -107,11 +107,3 @@ Phys. Rev. B 111, 174443 (2025)
 
 ---
 
-<h2>Links</h2>
-
-<ul>
-<li><a href="/research/">Research</a></li>
-<li><a href="/publications/">Publications</a></li>
-<li><a href="/cv/">Curriculum Vitae</a></li>
-<li><a href="/misc/">Miscellaneous</a></li>
-</ul>
