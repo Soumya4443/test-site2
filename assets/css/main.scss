@@ -29,52 +29,45 @@ a:hover {
 }
 
 /* ============================= */
-/* MoBS Style Navbar */
+/* MoBS Style Navbar FIX */
 /* ============================= */
 
-/* Main navbar */
+/* Full navbar background */
 .masthead {
-  background-color: #0a1a26 !important;   /* deep navy */
-  border-bottom: 4px solid #9ecae1;       /* light blue strip */
-  box-shadow: none;
+  background-color: #0a1a26 !important;
+  border-bottom: 4px solid #9ecae1;
+}
+
+/* REMOVE white background layers */
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav {
+  background: transparent !important;
+}
+
+/* Ensure nav container is dark */
+.greedy-nav {
+  background-color: #0a1a26 !important;
 }
 
 /* Navigation links */
 .masthead__menu-item a {
   color: #ffffff !important;
   font-weight: 500;
-  font-size: 0.95rem;
-  padding: 0.6rem 0.8rem;
 }
 
-/* Hover effect */
+/* Hover */
 .masthead__menu-item a:hover {
   color: #9ecae1 !important;
 }
 
-/* Active/current page */
+/* Active page */
 .masthead__menu-item--active a {
-  color: #ffffff !important;
   border-bottom: 2px solid #9ecae1;
 }
 
-/* Remove unwanted theme styling */
-.masthead__menu {
-  background: transparent !important;
-}
-
-.masthead__inner-wrap {
-  background: transparent !important;
-}
-
-/* Optional: site title (left side) */
+/* Site title (left side) */
 .site-title {
-  color: #ffffff !important;
-  font-weight: 600;
-}
-
-/* Ensure everything inside navbar stays white */
-.masthead * {
   color: #ffffff !important;
 }
 
