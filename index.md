@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Soumya Dash"
+title: "Soumyaranjan Dash"
 ---
 
 <div class="hero">
 
 <div class="hero-text">
 
-<h1>Soumya Dash</h1>
+<h1>Soumyaranjan Dash</h1>
 
 <p>
 I am a PhD student in physics at IISER Mohali working on strongly correlated electron systems, with a focus on magnetism, transport, and emergent phenomena.
@@ -17,7 +17,7 @@ I am a PhD student in physics at IISER Mohali working on strongly correlated ele
 My research combines numerical simulations and theoretical modeling to understand how simple interactions give rise to complex collective behavior in quantum materials.
 </p>
 
-<p><b>Monte Carlo • Kondo lattice • Frustrated systems • Transport</b></p>
+<p><b>Monte Carlo • Kondo lattice • Frustrated magnetism • Transport</b></p>
 
 </div>
 
@@ -42,7 +42,7 @@ I am currently pursuing my PhD at Indian Institute of Science Education and Rese
 <ul class="news">
 <li><b>May 2026:</b> Working on transport in Kondo lattice systems</li>
 <li><b>Apr 2026:</b> Simulation results on Shastry–Sutherland lattice</li>
-<li><b>Mar 2026:</b> Developed MPI-based Monte Carlo code</li>
+<li><b>August 2023:</b> Senior Research Fellowship</li>
 </ul>
 
 ---
