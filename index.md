@@ -1,21 +1,29 @@
 ---
 layout: home
-title: "Soumya Dash"
+title: "Soumyaranjan Dash"
 author_profile: true
 ---
 
-Hi, I am Soumya Dash.
+Hi, I am **Soumyaranjan Dash**.
 
-I am a PhD student in physics working on strongly correlated electron systems and quantum magnetism.
+I am a PhD student in physics working on strongly correlated electron systems, quantum magnetism, and numerical simulations.
 
-## Research Interests
+---
+
+## Research Overview
+I study emergent phases in correlated systems using computational methods such as Monte Carlo simulations and exact diagonalization.
+
+---
+
+## Current Focus
 - Kondo lattice models  
-- Shastry–Sutherland systems  
-- Monte Carlo simulations  
-- Exact diagonalization  
+- Shastry–Sutherland lattice  
+- Finite temperature magnetic behavior  
 
-## About Me
-I work on theoretical and computational approaches to understand emergent phases in correlated systems.
+---
 
-## Contact
-Email: your@email.com
+## Quick Links
+- [Research](/research/)
+- [Publications](/publications/)
+- [CV](/cv/)--
+
