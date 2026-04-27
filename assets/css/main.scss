@@ -404,3 +404,33 @@ ul li {
 .page__content a {
   font-weight: 500;
 }
+
+
+
+/* ============================= */
+/* MOBILE MENU FIX */
+/* ============================= */
+
+/* Dropdown menu background */
+.greedy-nav .hidden-links {
+  background-color: #0a1a26 !important;
+  border-radius: 8px;
+}
+
+/* Menu items inside dropdown */
+.greedy-nav .hidden-links a {
+  color: #ffffff !important;
+  padding: 10px 15px;
+  display: block;
+}
+
+/* Hover effect */
+.greedy-nav .hidden-links a:hover {
+  background-color: #1b2a41;
+  color: #9ecae1 !important;
+}
+
+/* Remove transparency */
+.greedy-nav .hidden-links li {
+  background-color: #0a1a26 !important;
+}
