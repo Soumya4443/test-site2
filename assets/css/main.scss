@@ -29,7 +29,7 @@ a:hover {
 }
 
 /* ============================= */
-/* Navbar (Dark Blue Style) */
+/* Navbar (force white text) */
 /* ============================= */
 
 .masthead {
@@ -37,13 +37,22 @@ a:hover {
   border-bottom: 3px solid #9ecae1;
 }
 
+/* Main nav links */
+.masthead__menu-item a,
 .masthead a {
-  color: #e6f2ff !important;
+  color: #ffffff !important;
   font-weight: 500;
 }
 
-.masthead a:hover {
+/* Hover effect */
+.masthead__menu-item a:hover {
   color: #9ecae1 !important;
+}
+
+/* Active/current page */
+.masthead__menu-item--active a {
+  color: #ffffff !important;
+  border-bottom: 2px solid #9ecae1;
 }
 
 /* ============================= */
