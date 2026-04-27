@@ -9,11 +9,10 @@
 /* ============================= */
 
 body {
-  background-color: #eef2f7;
+  background-color: #eef3f8;
   color: #2c3e50;
 }
 
-/* Main content box */
 .page__content {
   background: white;
   padding: 25px;
@@ -22,27 +21,29 @@ body {
 
 /* Links */
 a {
-  color: #1f77b4;
+  color: #2a6f97;
 }
 
 a:hover {
-  color: #155a8a;
+  color: #1b4f72;
 }
 
 /* ============================= */
-/* Navigation Bar */
+/* Navbar (Dark Blue Style) */
 /* ============================= */
 
 .masthead {
-  background-color: #1b2a41 !important;
+  background-color: #0b1e2d !important;
+  border-bottom: 3px solid #9ecae1;
 }
 
 .masthead a {
-  color: white !important;
+  color: #e6f2ff !important;
+  font-weight: 500;
 }
 
 .masthead a:hover {
-  color: #aad4ff !important;
+  color: #9ecae1 !important;
 }
 
 /* ============================= */
@@ -53,10 +54,11 @@ a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: linear-gradient(135deg, #e3ecf7, #f8fbff);
+  background: #f4f8fc;
   padding: 30px;
   border-radius: 14px;
   margin-top: 20px;
+  border: 1px solid #d9e6f2;
 }
 
 .hero-text {
@@ -71,6 +73,7 @@ a:hover {
 
 .hero-text p {
   font-size: 1.05rem;
+  line-height: 1.6;
 }
 
 .hero-image {
@@ -98,13 +101,13 @@ a:hover {
   padding: 20px;
   border-radius: 14px;
   width: 50%;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  border-left: 4px solid #1f77b4;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+  border-left: 5px solid #2a6f97;
   transition: transform 0.2s ease;
 }
 
 .card:hover {
-  transform: translateY(-3px);
+  transform: translateY(-4px);
 }
 
 /* ============================= */
@@ -113,8 +116,9 @@ a:hover {
 
 h2 {
   margin-top: 25px;
-  border-bottom: 2px solid #e0e6ed;
+  border-bottom: 2px solid #d6e2ec;
   padding-bottom: 5px;
+  color: #1b2a41;
 }
 
 .card h2 {
@@ -123,6 +127,19 @@ h2 {
 
 ul {
   padding-left: 20px;
+}
+
+/* ============================= */
+/* Footer */
+/* ============================= */
+
+.page__footer {
+  background: #0b1e2d;
+  color: #cbd6e2;
+}
+
+.page__footer a {
+  color: #9ecae1;
 }
 
 /* ============================= */
