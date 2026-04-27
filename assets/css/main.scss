@@ -313,3 +313,38 @@ ul li {
   max-width: 1000px !important;
   margin: 0 auto !important;
 }
+
+
+
+/* ============================= */
+/* HERO SIDE-BY-SIDE FIX */
+/* ============================= */
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-image {
+  flex: 0 0 220px;
+  text-align: center;
+}
+
+.hero-image img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+/* Mobile fix */
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+}

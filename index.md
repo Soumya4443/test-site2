@@ -10,7 +10,7 @@ title: "Soumya Dash"
 <h1>Soumya Dash</h1>
 
 <p>
-I am a PhD student in physics working on strongly correlated electron systems, with a focus on magnetism, transport, and emergent phenomena.
+I am a PhD student in physics at IISER Mohali working on strongly correlated electron systems, with a focus on magnetism, transport, and emergent phenomena.
 </p>
 
 <p>
