@@ -40,9 +40,12 @@ I am currently pursuing my PhD at Indian Institute of Science Education and Rese
 <h2>News</h2>
 
 <ul class="news">
-<li><b>May 2026:</b> Working on transport in Kondo lattice systems</li>
-<li><b>Apr 2026:</b> Simulation results on Shastry–Sutherland lattice</li>
-<li><b>August 2023:</b> Senior Research Fellowship</li>
+<li><b>Dec 2025:</b> Visited International Center for Theoretical Physics</li>
+<li><b>Nov 2025:</b> Visited Max Planck Institute for Physics of Complex System </li>
+<li><b>Apr 2024:</b> Best poster award at PSCES2024</li>
+<li><b>Aug 2023:</b> Senior Research Fellowship</li>
+<li><b>Sep 2021:</b> Joined IISER Mohali as a Ph.D. student</li>
+
 </ul>
 
 ---
@@ -59,7 +62,6 @@ I am currently pursuing my PhD at Indian Institute of Science Education and Rese
 
 <h2>Selected Publications</h2>
 
-<h2>Selected Publications</h2>
 
 <div class="pub">
 
