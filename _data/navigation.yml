@@ -8,8 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "People"
-    url: /people/
+  - title: "CV"
+    url: /cv/
+
+  - title: "Miscellaneous"
+    url: /misc/
 
   - title: "Contact"
     url: /contact/
