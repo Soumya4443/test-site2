@@ -64,20 +64,20 @@ I am currently pursuing my PhD at Indian Institute of Science Education and Rese
 <div class="pub">
 
 <p class="pub-title">
-Mott Insulating States with Competing Orders in the Triangular Lattice Hubbard Model
+Vacancy Induced Expansion of Spin-Liquid Regime in the J1−J2 Heisenberg Model
 </p>
 
 <p class="pub-authors">
-<b>Soumya Dash</b>, Coauthor Name, Another Author
+<b>Soumyaranjan Dash</b>, Anish Koley, Sanjeev Kumar
 </p>
 
 <p class="pub-journal">
-Phys. Rev. X 11, 041013 (2021)
+Phys. Rev. Lett. 136, 076502 (2026)
 </p>
 
 <p class="pub-links">
-<a href="#">DOI</a> |
-<a href="#">arXiv</a>
+<a href="https://journals.aps.org/prl/abstract/10.1103/rbn9-d45t">DOI</a> |
+<a href="https://arxiv.org/abs/2507.20561">arXiv</a>
 </p>
 
 </div>
@@ -85,20 +85,20 @@ Phys. Rev. X 11, 041013 (2021)
 <div class="pub">
 
 <p class="pub-title">
-Stripes, Antiferromagnetism, and the Pseudogap in the Doped Hubbard Model at Finite Temperature
+Semiclassical Approach to Partial Magnetic Order in Kondo Lattices
 </p>
 
 <p class="pub-authors">
-<b>Soumya Dash</b>, Coauthor Name
+<b>Soumyaranjan Dash</b>, Sanjeev Kumar
 </p>
 
 <p class="pub-journal">
-Phys. Rev. X 11, 031007 (2021)
+Phys. Rev. B 111, 174443 (2025)
 </p>
 
 <p class="pub-links">
-<a href="#">DOI</a> |
-<a href="#">arXiv</a>
+<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.174443">DOI</a> |
+<a href="https://arxiv.org/abs/2411.01812">arXiv</a>
 </p>
 
 </div>
