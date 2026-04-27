@@ -436,14 +436,33 @@ ul li {
 }
 
 
-.page__content a {
-  background: #2a6f97;
-  color: white !important;
-  padding: 10px 18px;
-  border-radius: 6px;
-  text-decoration: none;
+/* ============================= */
+/* PREMIUM CV DOWNLOAD */
+/* ============================= */
+
+.cv-container {
+  text-align: center;
+  margin-top: 40px;
 }
 
-.page__content a:hover {
+.cv-download {
+  margin-top: 20px;
+}
+
+/* Button style */
+.cv-download a {
+  display: inline-block;
+  background: #2a6f97;
+  color: white !important;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+.cv-download a:hover {
   background: #1b4f72;
+  transform: translateY(-2px);
 }

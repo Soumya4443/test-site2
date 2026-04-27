@@ -5,12 +5,18 @@ permalink: /cv/
 classes: wide
 ---
 
+<div class="cv-container">
+
 <h2>Curriculum Vitae</h2>
 
 <p>
-You can download my full CV using the link below.
+A detailed academic CV including education, research experience, publications, and technical skills is available below.
 </p>
 
-<p>
-<a href="/assets/files/cv.pdf" target="_blank"><b>Download CV (PDF)</b></a>
-</p>
+<div class="cv-download">
+<a href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">
+Download CV (PDF)
+</a>
+</div>
+
+</div>
