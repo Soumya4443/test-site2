@@ -1,29 +1,57 @@
 ---
-layout: home
-title: "Soumyaranjan Dash"
-author_profile: true
+layout: default
+title: "Soumya Dash"
 ---
 
-Hi, I am **Soumyaranjan Dash**.
+<div class="hero">
 
-I am a PhD student in physics working on strongly correlated electron systems, quantum magnetism, and numerical simulations.
+<div class="hero-text">
+
+# Quantum Materials & Simulation Group
+
+I work on strongly correlated electron systems, quantum magnetism, and computational modeling using Monte Carlo and exact diagonalization techniques.
+
+**Monte Carlo • Kondo lattice • Frustrated systems • Transport**
+
+</div>
+
+<div class="hero-image">
+<img src="/assets/images/research.png" width="300">
+</div>
+
+</div>
 
 ---
 
-## Research Overview
-I study emergent phases in correlated systems using computational methods such as Monte Carlo simulations and exact diagonalization.
+<div class="grid">
+
+<div class="card">
+
+## Recent Updates
+
+- Preprint: *Your paper title* (arXiv link)  
+- Simulation results on Shastry–Sutherland lattice  
+- New code release (GitHub link)
+
+</div>
+
+<div class="card">
+
+## Contact
+
+Email: your@email.com  
+
+GitHub: https://github.com/Soumya4443  
+
+Affiliation: AIIMS  
+
+</div>
+
+</div>
 
 ---
 
-## Current Focus
-- Kondo lattice models  
-- Shastry–Sutherland lattice  
-- Finite temperature magnetic behavior  
+## Miscellaneous Links
 
----
-
-## Quick Links
-- [Research](/research/)
-- [Publications](/publications/)
-- [CV](/cv/)--
-
+- Your project links  
+- Collaborations  
