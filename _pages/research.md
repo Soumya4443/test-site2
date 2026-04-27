@@ -1,49 +1,53 @@
 ---
 layout: splash
-classes:wide
 title: "Research"
 permalink: /research/
+classes: wide
 ---
 
-<h2>Research Overview</h2>
+<div class="research-hero">
+
+<h1>Research</h1>
 
 <p>
-My research focuses on theoretical and computational studies of strongly correlated quantum systems. I investigate magnetic ordering, electronic transport, and emergent phases using advanced numerical techniques.
+My research focuses on understanding emergent phenomena in strongly correlated quantum systems using computational and theoretical approaches.
 </p>
 
 <p>
-My work combines analytical insight with large-scale simulations to understand complex quantum behavior in frustrated and itinerant systems.
+I combine large-scale numerical simulations with physical insight to study magnetism, transport, and competing interactions in complex materials.
 </p>
+
+</div>
 
 ---
 
-<h2>Research Areas</h2>
+<h2>Research Themes</h2>
 
 <div class="research-grid">
 
 <div class="research-card">
 <h3>Quantum Magnetism</h3>
-<p>Frustrated spin systems, non-collinear magnetic order, and emergent magnetic textures in low-dimensional systems.</p>
+<p>Frustration, non-collinear ordering, and emergent magnetic textures in low-dimensional systems.</p>
 </div>
 
 <div class="research-card">
-<h3>Kondo Lattice Systems</h3>
-<p>Interplay between localized spins and itinerant electrons leading to complex magnetic phases and transport behavior.</p>
+<h3>Kondo Lattice Physics</h3>
+<p>Interplay between localized spins and itinerant electrons leading to rich magnetic and transport behavior.</p>
 </div>
 
 <div class="research-card">
 <h3>Strongly Correlated Systems</h3>
-<p>Competing interactions, electron correlations, and emergent collective phases in quantum materials.</p>
+<p>Competing interactions, electronic correlations, and emergent collective phases.</p>
 </div>
 
 <div class="research-card">
-<h3>Numerical Simulations</h3>
-<p>Large-scale simulations using Monte Carlo, Exact Diagonalization, and parallel computing techniques.</p>
+<h3>Numerical Methods</h3>
+<p>Monte Carlo simulations, exact diagonalization, and scalable computational techniques.</p>
 </div>
 
 <div class="research-card">
-<h3>Transport & Finite Temperature Physics</h3>
-<p>Electronic transport, conductivity, and thermal effects in correlated electron systems.</p>
+<h3>Transport Phenomena</h3>
+<p>Finite-temperature conductivity and electronic transport in correlated systems.</p>
 </div>
 
 </div>
@@ -55,16 +59,16 @@ My work combines analytical insight with large-scale simulations to understand c
 <div class="tags">
 <span>Monte Carlo</span>
 <span>Exact Diagonalization</span>
-<span>Cluster Mean Field Theory (CMFT)</span>
-<span>Travelling Cluster Approximation (TCA)</span>
-<span>MPI Parallel Computing</span>
+<span>CMFT</span>
+<span>TCA</span>
+<span>MPI</span>
 <span>Fortran</span>
 <span>Python</span>
 </div>
 
 ---
 
-<h2>Selected Projects</h2>
+<h2>Highlighted Projects</h2>
 
 <div class="project">
 
@@ -75,7 +79,7 @@ My work combines analytical insight with large-scale simulations to understand c
 <h3>Shastry–Sutherland Lattice</h3>
 
 <p>
-Study of frustrated magnetic systems and emergence of non-trivial spin configurations using numerical simulations. This work explores competing interactions and phase transitions in low-dimensional systems.
+Study of frustrated spin systems and emergence of complex magnetic phases arising from competing interactions.
 </p>
 
 </div>
@@ -90,7 +94,7 @@ Study of frustrated magnetic systems and emergence of non-trivial spin configura
 <h3>Kondo Lattice Model</h3>
 
 <p>
-Investigation of magnetic ordering and transport properties in systems with strong coupling between localized spins and itinerant electrons.
+Investigation of magnetic ordering and transport properties in itinerant electron systems coupled to localized spins.
 </p>
 
 </div>
@@ -102,10 +106,10 @@ Investigation of magnetic ordering and transport properties in systems with stro
 
 <div>
 
-<h3>Monte Carlo Simulations</h3>
+<h3>Monte Carlo Frameworks</h3>
 
 <p>
-Development of efficient Monte Carlo algorithms for studying thermodynamic and transport properties of correlated systems at finite temperature.
+Development of scalable algorithms for simulating thermodynamic properties of correlated systems at finite temperature.
 </p>
 
 </div>
@@ -113,26 +117,8 @@ Development of efficient Monte Carlo algorithms for studying thermodynamic and t
 
 ---
 
-<h2>Tools & Resources</h2>
+<h2>Research Approach</h2>
 
-<div class="grid">
-
-<div class="card">
-<h3>Simulation</h3>
-<ul>
-<li>Custom Monte Carlo codes</li>
-<li>Exact diagonalization routines</li>
-<li>Parallel MPI implementations</li>
-</ul>
-</div>
-
-<div class="card">
-<h3>Analysis</h3>
-<ul>
-<li>Python (NumPy, SciPy, Matplotlib)</li>
-<li>Data visualization</li>
-<li>Statistical analysis</li>
-</ul>
-</div>
-
-</div>
+<p>
+My work emphasizes a balance between computational rigor and physical intuition. I aim to identify minimal models that capture essential physics while remaining computationally tractable, enabling exploration of large parameter spaces and realistic system sizes.
+</p>
