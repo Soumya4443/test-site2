@@ -10,11 +10,11 @@ classes: wide
 <h1>Research</h1>
 
 <p>
-My research focuses on understanding emergent phenomena in strongly correlated quantum systems using computational and theoretical approaches.
+My research focuses on emergent phenomena in strongly correlated quantum systems, with an emphasis on magnetism, transport, and competing interactions.
 </p>
 
 <p>
-I combine large-scale numerical simulations with physical insight to study magnetism, transport, and competing interactions in complex materials.
+I combine large-scale numerical simulations with theoretical modeling to uncover minimal descriptions of complex quantum behavior.
 </p>
 
 </div>
@@ -25,30 +25,30 @@ I combine large-scale numerical simulations with physical insight to study magne
 
 <div class="research-grid">
 
-<div class="research-card">
+<a class="research-card">
 <h3>Quantum Magnetism</h3>
 <p>Frustration, non-collinear ordering, and emergent magnetic textures in low-dimensional systems.</p>
-</div>
+</a>
 
-<div class="research-card">
+<a class="research-card">
 <h3>Kondo Lattice Physics</h3>
 <p>Interplay between localized spins and itinerant electrons leading to rich magnetic and transport behavior.</p>
-</div>
+</a>
 
-<div class="research-card">
+<a class="research-card">
 <h3>Strongly Correlated Systems</h3>
-<p>Competing interactions, electronic correlations, and emergent collective phases.</p>
-</div>
+<p>Competing interactions, electron correlations, and emergent collective phases.</p>
+</a>
 
-<div class="research-card">
+<a class="research-card">
 <h3>Numerical Methods</h3>
 <p>Monte Carlo simulations, exact diagonalization, and scalable computational techniques.</p>
-</div>
+</a>
 
-<div class="research-card">
+<a class="research-card">
 <h3>Transport Phenomena</h3>
-<p>Finite-temperature conductivity and electronic transport in correlated systems.</p>
-</div>
+<p>Finite-temperature conductivity and electronic response in correlated systems.</p>
+</a>
 
 </div>
 
@@ -61,7 +61,7 @@ I combine large-scale numerical simulations with physical insight to study magne
 <span>Exact Diagonalization</span>
 <span>CMFT</span>
 <span>TCA</span>
-<span>MPI</span>
+<span>MPI Parallel Computing</span>
 <span>Fortran</span>
 <span>Python</span>
 </div>
@@ -79,7 +79,7 @@ I combine large-scale numerical simulations with physical insight to study magne
 <h3>Shastry–Sutherland Lattice</h3>
 
 <p>
-Study of frustrated spin systems and emergence of complex magnetic phases arising from competing interactions.
+Study of frustrated magnetic systems and emergence of complex spin configurations driven by competing interactions.
 </p>
 
 </div>
@@ -94,7 +94,7 @@ Study of frustrated spin systems and emergence of complex magnetic phases arisin
 <h3>Kondo Lattice Model</h3>
 
 <p>
-Investigation of magnetic ordering and transport properties in itinerant electron systems coupled to localized spins.
+Investigation of magnetic ordering and transport properties in itinerant electron systems with strong spin–electron coupling.
 </p>
 
 </div>
@@ -109,7 +109,7 @@ Investigation of magnetic ordering and transport properties in itinerant electro
 <h3>Monte Carlo Frameworks</h3>
 
 <p>
-Development of scalable algorithms for simulating thermodynamic properties of correlated systems at finite temperature.
+Development of scalable algorithms for studying thermodynamic and transport properties of correlated systems at finite temperature.
 </p>
 
 </div>
@@ -117,8 +117,31 @@ Development of scalable algorithms for simulating thermodynamic properties of co
 
 ---
 
-<h2>Research Approach</h2>
+<h2>Selected Results</h2>
+
+<div class="results">
+
+<div class="result-card">
+<h3>Magnetic Texture Formation</h3>
+<p>Emergence of non-trivial spin configurations from competing exchange interactions.</p>
+</div>
+
+<div class="result-card">
+<h3>Non-monotonic Transport</h3>
+<p>Field-dependent conductivity exhibiting non-trivial behavior in correlated systems.</p>
+</div>
+
+<div class="result-card">
+<h3>Finite Temperature Effects</h3>
+<p>Thermal fluctuations driving transitions between magnetic phases.</p>
+</div>
+
+</div>
+
+---
+
+<h2>Research Philosophy</h2>
 
 <p>
-My work emphasizes a balance between computational rigor and physical intuition. I aim to identify minimal models that capture essential physics while remaining computationally tractable, enabling exploration of large parameter spaces and realistic system sizes.
+My work emphasizes identifying minimal models that capture essential physics while remaining computationally tractable. I aim to bridge numerical simulation and conceptual understanding, enabling exploration of large systems and complex phase behavior.
 </p>
