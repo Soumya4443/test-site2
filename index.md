@@ -10,93 +10,70 @@ title: "Soumya Dash"
 <h1>Soumya Dash</h1>
 
 <p>
-PhD student in physics working on strongly correlated electron systems, focusing on magnetism, transport, and emergent phenomena.
+I am a PhD student in physics working on strongly correlated electron systems, with a focus on magnetism, transport, and emergent phenomena.
 </p>
 
 <p>
-My work combines large-scale numerical simulations with theoretical modeling to understand how simple interactions lead to complex quantum behavior.
+My research combines numerical simulations and theoretical modeling to understand how simple interactions give rise to complex collective behavior in quantum materials.
 </p>
 
 <p><b>Monte Carlo • Kondo lattice • Frustrated systems • Transport</b></p>
 
-<div class="hero-links">
-<a href="https://scholar.google.com" target="_blank">Google Scholar</a>
-<a href="https://arxiv.org" target="_blank">arXiv</a>
-<a href="https://github.com/Soumya4443" target="_blank">GitHub</a>
-</div>
-
 </div>
 
 <div class="hero-image">
-<img src="/assets/images/research.png">
+<img src="/assets/images/profile.jpg">
 </div>
 
 </div>
 
 ---
 
-<div class="grid">
-
-<div class="card">
-
-<h2>Current Work</h2>
-
-<ul>
-<li>Monte Carlo simulations of frustrated magnetic systems</li>
-<li>Kondo lattice models and transport properties</li>
-<li>Finite temperature behavior in correlated systems</li>
-</ul>
-
-</div>
-
-<div class="card">
-
-<h2>Latest Work</h2>
-
-<ul>
-<li>Preprint: Title of your latest work (arXiv link)</li>
-<li>Ongoing: Transport in Kondo lattice systems</li>
-<li>Code: Parallel Monte Carlo framework</li>
-</ul>
-
-</div>
-
-</div>
-
----
-
-<h2>Selected Highlights</h2>
-
-<div class="results">
-
-<a class="result-card">
-<h3>Magnetic Texture Formation</h3>
-<p>Emergence of non-trivial spin configurations from competing interactions.</p>
-</a>
-
-<a class="result-card">
-<h3>Non-monotonic Transport</h3>
-<p>Field-dependent conductivity in correlated electron systems.</p>
-</a>
-
-<a class="result-card">
-<h3>Finite Temperature Effects</h3>
-<p>Thermal fluctuations inducing phase transitions in magnetic systems.</p>
-</a>
-
-</div>
-
----
-
-<h2>Research Focus</h2>
+<h2>About</h2>
 
 <p>
-I investigate how competing interactions in quantum systems lead to novel magnetic phases and unconventional transport behavior. My goal is to connect minimal theoretical models with experimentally relevant phenomena.
+I am currently pursuing my PhD at AIIMS. My research focuses on computational approaches to strongly correlated systems, including Monte Carlo simulations, exact diagonalization, and cluster-based methods. I am particularly interested in understanding emergent magnetic phases and transport behavior in quantum materials.
 </p>
 
 ---
 
-<h2>Quick Links</h2>
+<h2>News</h2>
+
+<ul class="news">
+<li><b>May 2026:</b> Working on transport in Kondo lattice systems</li>
+<li><b>Apr 2026:</b> Simulation results on Shastry–Sutherland lattice</li>
+<li><b>Mar 2026:</b> Developed MPI-based Monte Carlo code</li>
+</ul>
+
+---
+
+<h2>Short CV</h2>
+
+<ul>
+<li><b>2024–Present:</b> PhD in Physics, AIIMS</li>
+<li><b>2022–2024:</b> MSc in Physics</li>
+<li><b>2019–2022:</b> BSc in Physics</li>
+</ul>
+
+---
+
+<h2>Selected Publications</h2>
+
+<ul>
+<li>
+<b>Your Name</b>, Title of your paper, Journal (Year)  
+<a href="#">[arXiv]</a> <a href="#">[DOI]</a>
+</li>
+
+<li>
+<b>Your Name</b>, Another paper title, Journal (Year)  
+<a href="#">[arXiv]</a>
+</li>
+</ul>
+
+---
+
+<h2>Links</h2>
 
 <ul>
 <li><a href="/research/">Research</a></li>
