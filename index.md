@@ -32,7 +32,7 @@ My research combines numerical simulations and theoretical modeling to understan
 <h2>About</h2>
 
 <p>
-I am currently pursuing my PhD at AIIMS. My research focuses on computational approaches to strongly correlated systems, including Monte Carlo simulations, exact diagonalization, and cluster-based methods. I am particularly interested in understanding emergent magnetic phases and transport behavior in quantum materials.
+I am currently pursuing my PhD at Indian Institute of Science Education and Research (IISER) Mohali. My research focuses on computational approaches to strongly correlated systems, including Monte Carlo simulations, exact diagonalization, and cluster-based methods. I am particularly interested in understanding emergent magnetic phases and transport behavior in quantum materials.
 </p>
 
 ---
@@ -50,9 +50,9 @@ I am currently pursuing my PhD at AIIMS. My research focuses on computational ap
 <h2>Short CV</h2>
 
 <ul>
-<li><b>2024–Present:</b> PhD in Physics, AIIMS</li>
-<li><b>2022–2024:</b> MSc in Physics</li>
-<li><b>2019–2022:</b> BSc in Physics</li>
+<li><b>2021–Present:</b> PhD in Physics, IISER Mohali</li>
+<li><b>2018–2020:</b> MSc in Physics</li>
+<li><b>2015–2028:</b> BSc in Physics</li>
 </ul>
 
 ---
