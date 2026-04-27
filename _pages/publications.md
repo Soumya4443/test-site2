@@ -51,8 +51,6 @@ arXiv:2512.24091
 </p>
 
 
-</div>
-
 
 
 
@@ -76,7 +74,7 @@ Phys. Rev. Lett. 136, 076502 (2026)
 <a href="https://arxiv.org/abs/2507.20561">arXiv</a>
 </p>
 
-</div>
+
 
 <div class="pub">
 
@@ -97,8 +95,6 @@ Phys. Rev. B 111, 174443 (2025)
 <a href="https://arxiv.org/abs/2411.01812">arXiv</a>
 </p>
 
-
-</div>
 
 
 <div class="pub">
