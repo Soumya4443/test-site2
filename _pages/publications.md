@@ -5,9 +5,58 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<h2>Selected Publications</h2>
-
 <div class="pub">
+
+
+
+
+<p class="pub-title">
+Valence Bond Glass and Glassy Spin Liquid in Disordered Frustrated Magnets
+</p>
+
+<p class="pub-authors">
+<b>Soumyaranjan Dash</b>, Vansh Narang, Sanjeev Kumar
+</p>
+
+<p class="pub-journal">
+arXiv:2604.05501
+</p>
+
+<p class="pub-links">
+<a href="#">DOI</a> |
+<a href="https://arxiv.org/abs/2604.05501">arXiv</a>
+</p>
+
+
+</div>
+
+
+
+
+<p class="pub-title">
+Thermal Evolution of Skyrmions in Synthetic Ferrimagnets of Co/Gd Heterostructure for Topological Spintronic Applications
+</p>
+
+<p class="pub-authors">
+Bhuvneshwari Sharma, <b>Soumyaranjan Dash</b>, Shaktiranjan Mohanty, Brindaban Ojha, Debi Rianto, Del Atkinson, Sanjeev Kumar, Subhankar Bedanta
+</p>
+
+<p class="pub-journal">
+arXiv:2512.24091
+</p>
+
+<p class="pub-links">
+<a href="#">DOI</a> |
+<a href="https://arxiv.org/abs/2512.24091">arXiv</a>
+</p>
+
+
+</div>
+
+
+
+
+
 
 
 <p class="pub-title">
@@ -50,3 +99,27 @@ Phys. Rev. B 111, 174443 (2025)
 
 
 </div>
+
+
+<div class="pub">
+
+<p class="pub-title">
+Skyrmions and Magnetic Bubbles in Spin-Orbit Coupled Metallic Magnets
+</p>
+
+<p class="pub-authors">
+Deepti Rana, <b>Soumyaranjan Dash</b>, Monika Bhakar, rajeshwari Roy Chowdhury, Ravi Prakash Singh, Sanjeev Kumar, Goutam Sheet
+</p>
+
+<p class="pub-journal">
+Phys. Rev. B 108, 184419 (2023)
+</p>
+
+<p class="pub-links">
+<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.184419">DOI</a> |
+<a href="https://arxiv.org/abs/2310.06521">arXiv</a>
+</p>
+
+
+</div>
+
