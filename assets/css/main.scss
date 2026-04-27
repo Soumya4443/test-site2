@@ -235,3 +235,49 @@ ul {
     width: 100%;
   }
 }
+
+
+/* ============================= */
+/* ELITE HOMEPAGE POLISH */
+/* ============================= */
+
+/* Hero links */
+.hero-links {
+  margin-top: 15px;
+}
+
+.hero-links a {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #2a6f97;
+}
+
+.hero-links a:hover {
+  color: #1b4f72;
+}
+
+/* Clickable highlight cards */
+.result-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+}
+
+.result-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+
+/* Better spacing */
+h2 {
+  margin-top: 40px;
+}
+
+/* Slight animation polish */
+.card,
+.project,
+.research-card {
+  transition: all 0.25s ease;
+}
