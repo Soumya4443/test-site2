@@ -349,3 +349,43 @@ ul li {
     text-align: center;
   }
 }
+
+
+
+/* ============================= */
+/* PUBLICATIONS STYLE */
+/* ============================= */
+
+.pub {
+  margin-bottom: 25px;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 4px;
+}
+
+.pub-authors {
+  color: #555;
+  font-size: 0.95rem;
+  margin-bottom: 2px;
+}
+
+.pub-journal {
+  font-style: italic;
+  color: #444;
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+.pub-links a {
+  font-size: 0.9rem;
+  color: #2a6f97;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
