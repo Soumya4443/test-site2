@@ -273,3 +273,41 @@ ul {
   max-width: 1100px;
   margin: auto;
 }
+
+
+
+
+/* ============================= */
+/* GLOBAL WIDTH FIX (ALL PAGES) */
+/* ============================= */
+
+/* Expand entire page */
+.page {
+  max-width: 1400px !important;
+  margin: auto;
+}
+
+/* Expand content area */
+.page__inner-wrap {
+  max-width: 1200px !important;
+  margin: auto;
+}
+
+/* Remove sidebar constraint */
+.sidebar {
+  display: none !important;
+}
+
+/* Let content take full width */
+.archive,
+.page__content,
+.page__inner-wrap {
+  width: 100% !important;
+}
+
+/* Remove left offset from sidebar layout */
+@media (min-width: 64em) {
+  .page {
+    padding-right: 0 !important;
+  }
+}

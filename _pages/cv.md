@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: splash
+classes: wide
 title: "CV"
 permalink: /cv/
 ---
