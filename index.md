@@ -7,16 +7,22 @@ title: "Soumya Dash"
 
 <div class="hero-text">
 
-# Quantum Materials & Simulation Group
+<h1>Soumya Dash</h1>
 
-I work on strongly correlated electron systems, quantum magnetism, and computational modeling using Monte Carlo and exact diagonalization techniques.
+<p>
+I am a PhD student in physics working on strongly correlated electron systems, quantum magnetism, and computational modeling.
+</p>
 
-**Monte Carlo • Kondo lattice • Frustrated systems • Transport**
+<p>
+My research focuses on understanding emergent phases in correlated systems using numerical techniques such as Monte Carlo simulations and exact diagonalization.
+</p>
+
+<p><b>Monte Carlo • Kondo lattice • Frustrated systems • Transport</b></p>
 
 </div>
 
 <div class="hero-image">
-<img src="/assets/images/research.png" width="300">
+<img src="/assets/images/research.png">
 </div>
 
 </div>
@@ -27,23 +33,23 @@ I work on strongly correlated electron systems, quantum magnetism, and computati
 
 <div class="card">
 
-## Recent Updates
+<h2>Recent Updates</h2>
 
-- Preprint: *Your paper title* (arXiv link)  
-- Simulation results on Shastry–Sutherland lattice  
-- New code release (GitHub link)
+<ul>
+<li>Working on Shastry–Sutherland lattice simulations</li>
+<li>Developing Monte Carlo code with MPI parallelization</li>
+<li>Exploring transport in Kondo lattice systems</li>
+</ul>
 
 </div>
 
 <div class="card">
 
-## Contact
+<h2>Contact</h2>
 
-Email: your@email.com  
-
-GitHub: https://github.com/Soumya4443  
-
-Affiliation: AIIMS  
+<p>Email: your@email.com</p>
+<p>Affiliation: AIIMS</p>
+<p>GitHub: <a href="https://github.com/Soumya4443">Soumya4443</a></p>
 
 </div>
 
@@ -51,7 +57,26 @@ Affiliation: AIIMS
 
 ---
 
-## Miscellaneous Links
+<h2>Research Overview</h2>
 
-- Your project links  
-- Collaborations  
+<p>
+My work focuses on theoretical and computational studies of strongly correlated quantum systems. I investigate magnetic ordering, electronic transport, and emergent phases using numerical techniques.
+</p>
+
+<ul>
+<li>Kondo lattice models</li>
+<li>Frustrated magnetism</li>
+<li>Shastry–Sutherland systems</li>
+<li>Finite temperature behavior</li>
+</ul>
+
+---
+
+<h2>Quick Links</h2>
+
+<ul>
+<li><a href="/research/">Research</a></li>
+<li><a href="/publications/">Publications</a></li>
+<li><a href="/cv/">Curriculum Vitae</a></li>
+<li><a href="/misc/">Miscellaneous</a></li>
+</ul>
